@@ -1,0 +1,10 @@
+////////////////////////Arrays//////////////////////////////////
+-----------------------Creating an Array------------------------
+On a computer, Arrays can hold up to N items.
+The value of N is decided by you, the programmer, at the time you create the Array.
+Array index is overriden when a new object is added to the same index.
+Use a loop to read and write items into an array. For each is more elegant when reading.
+Get capacity by array.length. For loop counter to get the length.
+-----------------------Basic Array Operations--------------------
+Insert: Inserting at the beginning takes O(n) time, shifts all elements to the right.
+
